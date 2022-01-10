@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MorphaxTheDeveloper
 - 👀 I’m interested in coding , cyber security
-- 🌱 I’m currently learning Wpilib for coding Roborio
+- 🌱 I’m currently translating the python docs
 - 📫 How to reach me
 - 📧 morphax@protonmail.com
 - Tryhackme - https://tryhackme.com/p/morphax
