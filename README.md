@@ -11,8 +11,7 @@
 - ✔️CSS
 - ✔️Visual Basic
 - ✔️Bash
-- ✔️Arduino
-- ✔️C
+- ✔️Javascript
 - ✔️Java
 - -------------------------------------------------------
 - 💻I also love cyber security
