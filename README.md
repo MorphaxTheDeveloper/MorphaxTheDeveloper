@@ -16,6 +16,7 @@
 - -------------------------------------------------------
 - 💻I also love cyber security
 - 🖤https://tryhackme.com/p/morphax
+- <script src="https://tryhackme.com/badge/184194"></script>
 - -------------------------------------------------------
 - 📫 How to reach me
 - 📧 morphax@protonmail.com
