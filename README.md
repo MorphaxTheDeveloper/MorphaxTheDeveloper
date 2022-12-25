@@ -5,7 +5,6 @@
 - 👀 I’m interested in coding , cyber security
 - 🌱 I’m currently translating the python docs
 - 🔥I publish my programs that will be useful to someone on github 
-- ⚡Fun fact: CC satışı/alışı yapmak, kullanmak, Para karşılığında Tc sorgusu yapmak hacking değil orospu çocukluğudur
 
 - 💻 Known programming languages
 - ✔️HTML
