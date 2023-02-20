@@ -1,7 +1,7 @@
 
 <h1>Çınar's CodeLand</h1>
 <img src="https://tryhackme-badges.s3.amazonaws.com/morphax.png" alt="TryHackMe">
-- 👋 Hi, I’m @MorphaxTheDeveloper
+<h3>👋 Hi, I’m @MorphaxTheDeveloper</h3>
 - 
 - 👀 I’m interested in coding, cyber security
 - 
