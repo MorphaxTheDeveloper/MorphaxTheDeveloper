@@ -15,7 +15,10 @@
   <th>✔️HTML</th>
   <th>✔️CSS</th>  
 </table>
-<br>![5d2](https://user-images.githubusercontent.com/61086421/220204609-ac20d139-ee8d-44ac-a495-43c13193a7bd.png)
+<br>
+
+
+![5d2](https://user-images.githubusercontent.com/61086421/220204689-7ee4418e-4876-4e66-8769-763c42a2f792.png)
 
 <h3>Hey, checkout my tryhackme account yo</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/morphax.png" alt="TryHackMe">
