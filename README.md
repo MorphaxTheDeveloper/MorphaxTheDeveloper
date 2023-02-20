@@ -2,17 +2,6 @@
 <h1>Çınar's CodeLand</h1>
 <img src="https://tryhackme-badges.s3.amazonaws.com/morphax.png" alt="TryHackMe">
 <h3>👋 Hi, I’m @MorphaxTheDeveloper</h3>
-<table>
-  <tr>
-  <th>Known Programming Languages</th>
-</tr>
-  
-  <tr>
-  <th>✔️HTML</th>
-    <th>✔️CSS</th>
-</tr>
-
-</table>
 - 
 - 👀 I’m interested in coding, cyber security
 - 
@@ -28,6 +17,53 @@
 - ✔️Javascript
 - ✔️PHP
 - ✔️Java
+
+
+
+
+
+<table>
+  <tr>
+  <th>💻Known Programming Languages</th>
+</tr>
+  
+  <tr>
+  <th>✔️JAVA</th>
+</tr>
+
+    <tr>
+  <th>✔️PHP</th>
+</tr>
+  
+    <tr>
+  <th>✔️VBA</th>
+</tr>
+  
+  
+    <tr>
+  <th>✔️BASH</th>
+</tr>
+  
+  
+    <tr>
+  <th>✔️JAVASCRIPT</th>
+</tr>
+  
+  
+    <tr>
+  <th>✔️HTML</th>
+</tr>
+  
+      <tr>
+  <th>✔️CSS</th>
+</tr>
+  
+</table>
+
+
+
+
+
 
 - 💻I also love cyber security
 - 🖤https://tryhackme.com/p/morphax
