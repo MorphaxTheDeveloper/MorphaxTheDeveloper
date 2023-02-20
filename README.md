@@ -14,7 +14,6 @@
   <th>✔️HTML</th>
   <th>✔️CSS</th>  
 </table>
-<br>
 
 <hr>
 
