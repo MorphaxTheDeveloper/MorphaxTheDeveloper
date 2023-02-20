@@ -30,4 +30,5 @@
 <h3>🌱 I’m currently trying to improve myself more (especially in red teaming)</h3>
 <h3>🔥I publish my programs that will be useful to someone on github</h3>
 <h3>💖https://docs.python.org/tr</h3>
-![cat-space](https://user-images.githubusercontent.com/61086421/220206809-7b603516-d50a-488b-a589-8c39dc952be6.gif)
+![cat-space](https://user-images.githubusercontent.com/61086421/220206941-01d2c8a8-443d-4b1f-8c98-9b4cb63b8222.gif)
+
