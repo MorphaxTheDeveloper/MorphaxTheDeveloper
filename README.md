@@ -19,16 +19,16 @@
 
 <h3>Hey, checkout my tryhackme account</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/morphax.png" alt="TryHackMe">
-
+🖤https://tryhackme.com/p/morphax
 <br>
 
 
 <h3>🌱 I’m currently trying to improve myself more (especially in red teaming)</h3>
 
-<h3>🔥I publish my programs that <b>will be useful</b> to someone on github</h3>
+<h3>🔥I publish my programs that will be useful to someone on github</h3>
 
 
-- 🖤https://tryhackme.com/p/morphax
+- 
 
 - 📫 How to reach me
 - 📧 morphax@protonmail.com
