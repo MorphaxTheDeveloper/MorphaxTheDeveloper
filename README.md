@@ -23,40 +23,25 @@
 
 
 <table>
-  <tr>
   <th>💻Known Programming Languages</th>
-</tr>
   
-  <tr>
   <th>✔️JAVA</th>
-</tr>
 
-    <tr>
   <th>✔️PHP</th>
-</tr>
   
-    <tr>
   <th>✔️VBA</th>
-</tr>
+
   
   
-    <tr>
   <th>✔️BASH</th>
-</tr>
   
   
-    <tr>
   <th>✔️JAVASCRIPT</th>
-</tr>
   
   
-    <tr>
   <th>✔️HTML</th>
-</tr>
   
-      <tr>
   <th>✔️CSS</th>
-</tr>
   
 </table>
 
