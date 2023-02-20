@@ -2,7 +2,6 @@
 <h1>Çınar's CodeLand - 👋 Hi, I’m @MorphaxTheDeveloper</h1>
 
 <br>
-<hr>
 <h3>👀 I’m interested in coding, cyber security</h3>
 
 <table>
@@ -17,9 +16,13 @@
 </table>
 <br>
 
+<hr>
+
 <h3>Hey, checkout my tryhackme account</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/morphax.png" alt="TryHackMe">
-🖤https://tryhackme.com/p/morphax
+https://tryhackme.com/p/morphax
+<hr>
+
 <br>
 
 
