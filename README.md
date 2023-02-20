@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @MorphaxTheDeveloper
 - 👀 I’m interested in coding , cyber security
-- 🌱 I’m currently translating the python docs
+- 🌱 I’m currently trying to improve myself more (especially in red teaming)
 - 🔥I publish my programs that will be useful to someone on github 
 
 - 💻 Known programming languages
@@ -12,6 +12,7 @@
 - ✔️Visual Basic
 - ✔️Bash
 - ✔️Javascript
+- ✔️PHP
 - ✔️Java
 
 - 💻I also love cyber security
