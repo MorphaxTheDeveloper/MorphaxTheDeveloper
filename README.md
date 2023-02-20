@@ -4,9 +4,13 @@
 <h3>👋 Hi, I’m @MorphaxTheDeveloper</h3>
 <table>
   <tr>
-  <th>sdfsdf</th>
+  <th>Known Programming Languages</th>
 </tr>
-
+  
+  <tr>
+  <th>✔️HTML</th>
+    <th>✔️CSS</th>
+</tr>
 
 </table>
 - 
