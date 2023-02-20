@@ -1,9 +1,5 @@
 
-<h1>Çınar's CodeLand</h1>
-
-<br>
-
-<h2>👋 Hi, I’m @MorphaxTheDeveloper</h2>
+<h1>Çınar's CodeLand - 👋 Hi, I’m @MorphaxTheDeveloper</h1>
 
 <br>
 
