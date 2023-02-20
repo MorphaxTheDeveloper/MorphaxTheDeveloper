@@ -21,7 +21,7 @@
 <h3>https://tryhackme.com/p/morphax</h3>
 <hr>
 
-![linkedin-flat](https://user-images.githubusercontent.com/61086421/220206240-ca637139-00fb-4c45-b8c2-6fa6e5049793.png)
+
 <h3>Linkedin account</h3>
 <h3>https://www.linkedin.com/in/%C3%A7%C4%B1nar-fidanboy-b1b963252</h3>
 <hr>
