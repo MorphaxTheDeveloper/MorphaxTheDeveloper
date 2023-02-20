@@ -1,11 +1,14 @@
 
 <h1>Çınar's CodeLand</h1>
+
 <br>
 
-<h3>👋 Hi, I’m @MorphaxTheDeveloper</h3>
-- 
-- 👀 I’m interested in coding, cyber security
+<h2>👋 Hi, I’m @MorphaxTheDeveloper</h2>
 
+<br>
+
+<h3>👀 I’m interested in coding, cyber security</h3>
+<br>
 <table>
   <th>💻Known Programming Languages</th>
   <th>✔️JAVA</th>
