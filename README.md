@@ -1,6 +1,5 @@
 
-![morphax](https://user-images.githubusercontent.com/61086421/202276519-73dbd6c9-e769-469b-86b1-1b97bf7a755c.png)
-
+<script src="https://tryhackme.com/badge/184194"></script>
 - 👋 Hi, I’m @MorphaxTheDeveloper
 - 👀 I’m interested in coding , cyber security
 - 🌱 I’m currently trying to improve myself more (especially in red teaming)
