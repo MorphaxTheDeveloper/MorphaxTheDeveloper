@@ -1,7 +1,6 @@
 
 <h1>Çınar's CodeLand - 👋 Hi, I’m @MorphaxTheDeveloper</h1>
 
-<br>
 <h3>👀 I’m interested in coding, cyber security</h3>
 
 <table>
