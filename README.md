@@ -27,7 +27,7 @@ https://tryhackme.com/p/morphax
 
 <h3>🌱 I’m currently trying to improve myself more (especially in red teaming)</h3>
 <h3>🔥I publish my programs that will be useful to someone on github</h3>
-<h3>https://docs.python.org/tr 💖</h3>
+<h3>💖https://docs.python.org/tr</h3>
 
 - 📫 How to reach me
 - 📧 morphax@protonmail.com
