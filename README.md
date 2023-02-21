@@ -16,7 +16,7 @@
 
 <hr>
 <h3>Hey, checkout my tryhackme account</h3>
-<img src="https://user-images.githubusercontent.com/61086421/220460316-7c0c466a-7de8-483c-a0e4-8c07210d6b57.png"/>
+<img src="https://user-images.githubusercontent.com/61086421/220461089-1971e73c-1696-4170-8d40-2d24b5e18819.png"/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/morphax.png" alt="TryHackMe">
 <h3>https://tryhackme.com/p/morphax</h3>
 <hr>
