@@ -15,7 +15,7 @@
 </table>
 
 <hr>
-<img src="https://user-images.githubusercontent.com/61086421/220460060-a5387c45-771c-41a6-98f6-d3d5e48b3c18.png"/>
+<img src="https://user-images.githubusercontent.com/61086421/220460316-7c0c466a-7de8-483c-a0e4-8c07210d6b57.png"/>
 
 <h3>Hey, checkout my tryhackme account</h3>
 
