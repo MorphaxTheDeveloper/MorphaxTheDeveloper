@@ -15,7 +15,7 @@
 </table>
 
 <hr>
-![tryhackme-icon-filled-256](https://user-images.githubusercontent.com/61086421/220460060-a5387c45-771c-41a6-98f6-d3d5e48b3c18.png)
+<img src="https://user-images.githubusercontent.com/61086421/220460060-a5387c45-771c-41a6-98f6-d3d5e48b3c18.png"/>
 
 <h3>Hey, checkout my tryhackme account</h3>
 
