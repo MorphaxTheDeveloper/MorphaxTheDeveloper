@@ -1,9 +1,3 @@
-# BENIM SITEM PATLAMAZ :D
-deneyin bakalım 🤣🤣
- 
-
-
-
 # 💫 About Me:
 i'm guy that interested in varius, interesting things such as
 
