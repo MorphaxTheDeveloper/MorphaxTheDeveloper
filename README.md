@@ -5,10 +5,6 @@ i'm guy that interested in varius, interesting things such as
 
 cyber security -> checkout my tryhackme account -> [PRESS](https://tryhackme.com/p/morphax)
 
-my personal website -> [cinarfidanboy.com](https://cinarfidanboy.com/)
-
-güzel kızlar linkedin'den yazsın
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cinarfidanboy) 
 
